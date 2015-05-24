@@ -1,6 +1,6 @@
 # Baby Todo
 
-Please feel free to user and/or expand these lists. Pull Requests welcome.
+Please feel free to use and/or expand these lists. Pull Requests welcome.
 
 I couldn't find any _usable_ lists which I could import into my existing todo app, so I thought I would start a repository where anyone can grab the format they need and off you go.
 
